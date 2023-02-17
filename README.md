@@ -8,6 +8,7 @@ This repository contains implementation of various neural network models and con
 The repository includes the following implementations:
 
 1. Load multiple datasets
+2. Preprocessing and cleaning databases
 
 ## Requirements
 
