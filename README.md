@@ -9,11 +9,13 @@ The repository includes the following implementations:
 
 1. Load multiple datasets
 2. Preprocessing and cleaning databases
+3. Dataset Generators
 
 ## Requirements
 
 The code is written in Python 3 and requires the following packages:
 
+- TensorFlow
 - Keras
 - NumPy
 - Matplotlib
