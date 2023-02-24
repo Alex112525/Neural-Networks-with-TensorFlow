@@ -11,6 +11,7 @@ The repository includes the following implementations:
 2. Preprocessing and cleaning databases
 3. Dataset Generators
 4. KerasTunner
+5. Transfer learning
 
 ## Requirements
 
